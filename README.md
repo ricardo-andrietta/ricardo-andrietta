@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ricardo Andrietta Mendes</h1>
-<h3 align="center">A passionate backend developer from Brazil, living in Canada</h3>
+<h3 align="center">A passionate backend developer from Brazil 🇧🇷, living in Canada 🇨🇦</h3>
 
 - 🌱 I’m currently learning **AI**
-
 - 📝 I'm about to start writing articles on [medium](medium)
-
 - 💬 Ask me about **PHP, MySQL, Elasticsearch, Docker, git**
+- 🤝 How to reach me: [ricardoandrietta.ca](https://www.ricardoandrietta.ca)
+- ⚡ Fun facts
+  - ☕️ is always welcome
+  - 🐶 relaxes me.
+  - 👨🏼‍🍳 I do!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
