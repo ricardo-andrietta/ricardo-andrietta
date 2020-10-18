@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ricardo Andrietta Mendes</h1>
 <h3 align="center">A passionate backend developer from Brazil 🇧🇷, living in Canada 🇨🇦</h3>
+<br>
 
 - 🌱 I’m currently learning **AI**
 - 📝 I'm about to start writing articles on [medium](medium)
@@ -10,13 +11,14 @@
   - 🐶 relaxes me.
   - 👨🏼‍🍳 I do!
 
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ricardoandrietta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ricardoandrietta" height="30" width="40" /></a>
 <a href="https://fb.com/ricardoandrietta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ricardoandrietta" height="30" width="40" /></a>
 <a href="https://medium.com/@ricardoandrietta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ricardoandrietta" height="30" width="40" /></a>
 </p>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
