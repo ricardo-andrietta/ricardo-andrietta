@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **AI**
 - 📝 I'm about to start writing articles on [medium](medium)
 - 💬 Ask me about **PHP, MySQL, Elasticsearch, Docker, git**
-- 🤝 How to reach me: [ricardoandrietta.ca](https://www.ricardoandrietta.ca)
+- 🤝 How to reach out to me: [ricardoandrietta.ca](https://www.ricardoandrietta.ca)
 - ⚡ Fun facts
   - ☕️ is always welcome
   - 🐶 relaxes me.
